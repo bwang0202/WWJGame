@@ -1,0 +1,16 @@
+comp310f13.rmiChat
+mainMVC.controller
+mainMVC.model
+mainMVC.model.dataPacket
+mainMVC.model.game
+mainMVC.view
+map
+provided.datapacket
+provided.datapacket.test
+provided.extvisitor
+provided.extvisitor.test
+provided.mixedData
+provided.mixedData.test
+provided.rmiUtils
+provided.rmiUtils.classServer
+provided.util

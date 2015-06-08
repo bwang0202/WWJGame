@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_Tx0t4GgzEeOTZ_-sOuHiZA">
+  <modelElement href="../../../finalprojectClient.uml#_1EtgUGgyEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzrvEWgzEeOTZ_-sOuHiZA" targetItem="_TztkQGgzEeOTZ_-sOuHiZA" sourceItem="_TzrvEGgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzrvE2gzEeOTZ_-sOuHiZA" targetItem="_TztkTWgzEeOTZ_-sOuHiZA" sourceItem="_TzrvEmgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzsWIWgzEeOTZ_-sOuHiZA" targetItem="_TztkUWgzEeOTZ_-sOuHiZA" sourceItem="_TzsWIGgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tzs9MGgzEeOTZ_-sOuHiZA" source="_TztkQGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1S2C8GgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_T0C7cGgzEeOTZ_-sOuHiZA" position="170.0,170.0"/>
+    <stereotypes xmi:id="_Tzs9MWgzEeOTZ_-sOuHiZA" name="Reference">
+      <modelElement href="../../../finalprojectClient.uml#_1S2C8mgyEeOTZ_-sOuHiZA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Tzs9MmgzEeOTZ_-sOuHiZA" text=""/>
+    <sourceRole xmi:id="_Tzs9M2gzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="">
+      <modelElement href="../../../finalprojectClient.uml#_1S2C8WgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tzs9NGgzEeOTZ_-sOuHiZA" label="+"/>
+      <cardinality xmi:id="_Tzs9NWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Tzs9NmgzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="_user" navigable="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RCFEmgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tzs9N2gzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tzs9OGgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzvZcWgzEeOTZ_-sOuHiZA" targetItem="_TzxOo2gzEeOTZ_-sOuHiZA" sourceItem="_TzvZcGgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_TzvZcmgzEeOTZ_-sOuHiZA" source="_TzxOo2gzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1S2C82gyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_T0DigGgzEeOTZ_-sOuHiZA" position="190.0,190.0"/>
+    <stereotypes xmi:id="_Tzwnk2gzEeOTZ_-sOuHiZA" name="Reference">
+      <modelElement href="../../../finalprojectClient.uml#_1S2qAGgyEeOTZ_-sOuHiZA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_TzwnkGgzEeOTZ_-sOuHiZA" text=""/>
+    <sourceRole xmi:id="_TzwnkWgzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="">
+      <modelElement href="../../../finalprojectClient.uml#_1S2C9GgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_TzwnlWgzEeOTZ_-sOuHiZA" label="+"/>
+      <cardinality xmi:id="_TzwnlGgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_TzwnkmgzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="_user" navigable="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RD6QGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_TzxOoWgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_TzxOoGgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzwAgWgzEeOTZ_-sOuHiZA" targetItem="_TzxOr2gzEeOTZ_-sOuHiZA" sourceItem="_TzwAgGgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzwAg2gzEeOTZ_-sOuHiZA" targetItem="_TzxOs2gzEeOTZ_-sOuHiZA" sourceItem="_TzwAgmgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tzzq4GgzEeOTZ_-sOuHiZA" targetItem="_Tz05CWgzEeOTZ_-sOuHiZA" sourceItem="_TzzD0GgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tzzq4mgzEeOTZ_-sOuHiZA" targetItem="_Tz05GGgzEeOTZ_-sOuHiZA" sourceItem="_Tzzq4WgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz0R8WgzEeOTZ_-sOuHiZA" targetItem="_Tz05HWgzEeOTZ_-sOuHiZA" sourceItem="_Tz0R8GgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tz05AGgzEeOTZ_-sOuHiZA" source="_Tz05CWgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1S2qAWgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_T0DigWgzEeOTZ_-sOuHiZA" position="210.0,210.0"/>
+    <stereotypes xmi:id="_Tz05AWgzEeOTZ_-sOuHiZA" name="Reference">
+      <modelElement href="../../../finalprojectClient.uml#_1S2qA2gyEeOTZ_-sOuHiZA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Tz05AmgzEeOTZ_-sOuHiZA" text=""/>
+    <sourceRole xmi:id="_Tz05A2gzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="">
+      <modelElement href="../../../finalprojectClient.uml#_1S2qAmgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz05BGgzEeOTZ_-sOuHiZA" label="+"/>
+      <cardinality xmi:id="_Tz05BWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Tz05BmgzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="_id" navigable="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RFIYGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz05B2gzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz05CGgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz38UWgzEeOTZ_-sOuHiZA" targetItem="_Tz5Ki2gzEeOTZ_-sOuHiZA" sourceItem="_Tz38UGgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz38U2gzEeOTZ_-sOuHiZA" targetItem="_Tz5Kj2gzEeOTZ_-sOuHiZA" sourceItem="_Tz38UmgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz4jYGgzEeOTZ_-sOuHiZA" targetItem="_Tz5Kk2gzEeOTZ_-sOuHiZA" sourceItem="_Tz38VGgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tz5KcGgzEeOTZ_-sOuHiZA" source="_Tz5KeWgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1S3REGgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_T0DigmgzEeOTZ_-sOuHiZA" position="230.0,230.0"/>
+    <stereotypes xmi:id="_Tz5KcWgzEeOTZ_-sOuHiZA" name="Reference">
+      <modelElement href="../../../finalprojectClient.uml#_1S3REmgyEeOTZ_-sOuHiZA"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Tz5KcmgzEeOTZ_-sOuHiZA" text=""/>
+    <sourceRole xmi:id="_Tz5Kc2gzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="">
+      <modelElement href="../../../finalprojectClient.uml#_1S3REWgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz5KdGgzEeOTZ_-sOuHiZA" label="+"/>
+      <cardinality xmi:id="_Tz5KdWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Tz5KdmgzEeOTZ_-sOuHiZA" aggregationKind="NONE" name="_dp" navigable="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RGWgmgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz5Kd2gzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz5KeGgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz7msWgzEeOTZ_-sOuHiZA" targetItem="_Tz8NwGgzEeOTZ_-sOuHiZA" sourceItem="_Tz7msGgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz9b4WgzEeOTZ_-sOuHiZA" targetItem="_Tz_4IGgzEeOTZ_-sOuHiZA" sourceItem="_Tz9b4GgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz-C8GgzEeOTZ_-sOuHiZA" targetItem="_Tz_4NmgzEeOTZ_-sOuHiZA" sourceItem="_Tz9b4mgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz-C8mgzEeOTZ_-sOuHiZA" targetItem="_Tz_4OmgzEeOTZ_-sOuHiZA" sourceItem="_Tz-C8WgzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz-C9GgzEeOTZ_-sOuHiZA" targetItem="_Tz_4PmgzEeOTZ_-sOuHiZA" sourceItem="_Tz-C82gzEeOTZ_-sOuHiZA"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tz-qAWgzEeOTZ_-sOuHiZA" targetItem="_Tz_4QmgzEeOTZ_-sOuHiZA" sourceItem="_Tz-qAGgzEeOTZ_-sOuHiZA"/>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzrvEGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_TzrvEWgzEeOTZ_-sOuHiZA" text="add user data, with a IUser in it&#xD;&#xA;@author Bojun&#xD;&#xA; *" item="_TztkQGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1ST3eGgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzrvEmgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_TzrvE2gzEeOTZ_-sOuHiZA" text="stored iuser" item="_TztkTWgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1ST3emgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzsWIGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_TzsWIWgzEeOTZ_-sOuHiZA" text="constructor, &#xD;&#xA;&#x9; * @param user the IUser to store" item="_TztkUWgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1ST3eWgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzvZcGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_TzvZcWgzEeOTZ_-sOuHiZA" text="remove user data&#xD;&#xA;@author Bojun&#xD;&#xA; *" item="_TzxOo2gzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUegGgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzwAgGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_TzwAgWgzEeOTZ_-sOuHiZA" text="the stored user" item="_TzxOr2gzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUegmgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzwAgmgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_TzwAg2gzEeOTZ_-sOuHiZA" text="constructor&#xD;&#xA;&#x9; * @param user the user to be stored" item="_TzxOs2gzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUegWgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzzD0GgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tzzq4GgzEeOTZ_-sOuHiZA" text="data of requesting cmd, the type of cmd is specified by an id, class&lt;?>&#xD;&#xA;@author Bojun&#xD;&#xA; *" item="_Tz05CWgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUeg2gyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tzzq4WgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tzzq4mgzEeOTZ_-sOuHiZA" text="id stored" item="_Tz05GGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUehWgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz0R8GgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz0R8WgzEeOTZ_-sOuHiZA" text="constructor&#xD;&#xA;&#x9; * @param id stored id" item="_Tz05HWgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUehGgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz38UGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz38UWgzEeOTZ_-sOuHiZA" text="Get any message from the user&#xD;&#xA;&#x9; * @return A String message from the user" item="_Tz5Ki2gzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUeh2gyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz38UmgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz38U2gzEeOTZ_-sOuHiZA" text="Get the failed data packet&#xD;&#xA;&#x9; * @return A datapacket" item="_Tz5Kj2gzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUeiGgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz38VGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz4jYGgzEeOTZ_-sOuHiZA" text="constructor &#xD;&#xA;&#x9; * @param msg message from the user&#xD;&#xA;&#x9; * @param dp the failed data packet" item="_Tz5Kk2gzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUehmgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz7msGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz7msWgzEeOTZ_-sOuHiZA" text="data of a ok status&#xD;&#xA;@author Bojun&#xD;&#xA; *" item="_Tz8NwGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUeiWgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz9b4GgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz9b4WgzEeOTZ_-sOuHiZA" text="a data of text message, with sender's name, date, the message&#xD;&#xA;@author Bojun&#xD;&#xA; *" item="_Tz_4IGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SUeimgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz9b4mgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz-C8GgzEeOTZ_-sOuHiZA" text="getter for name" item="_Tz_4NmgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SVFkWgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz-C8WgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz-C8mgzEeOTZ_-sOuHiZA" text="getter for date" item="_Tz_4OmgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SVFkmgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz-C82gzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz-C9GgzEeOTZ_-sOuHiZA" text="getter for msg" item="_Tz_4PmgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SVFk2gyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tz-qAGgzEeOTZ_-sOuHiZA" sourceConnectionVisual="_Tz-qAWgzEeOTZ_-sOuHiZA" text="&#xD;&#xA;&#x9; * @param name who sent it&#xD;&#xA;&#x9; * @param date when it sent&#xD;&#xA;&#x9; * @param msg what is says" item="_Tz_4QmgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1SVFkGgyEeOTZ_-sOuHiZA"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TztkQGgzEeOTZ_-sOuHiZA" comments="_TzrvEGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_TzrvEWgzEeOTZ_-sOuHiZA" name="AddUser" associationsOut="_Tzs9MGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1HHUEGgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_TztkQWgzEeOTZ_-sOuHiZA" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TztkQmgzEeOTZ_-sOuHiZA" label="+"/>
+    <attributes xmi:id="_TztkQ2gzEeOTZ_-sOuHiZA" defaultValue="4779850891423219095L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RCFEGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_TztkRGgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_TztkRWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_TztkRmgzEeOTZ_-sOuHiZA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_TztkR2gzEeOTZ_-sOuHiZA" name="_user">
+      <modelElement href="../../../finalprojectClient.uml#_1RCFEmgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_TztkSGgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RCsIGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TztkSWgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RCsIGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_TztkSmgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_TztkS2gzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_TztkTGgzEeOTZ_-sOuHiZA" name="IUser">
+        <modelElement href="../../../finalprojectClient.uml#_1HhjwGgyEeOTZ_-sOuHiZA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_TztkTWgzEeOTZ_-sOuHiZA" comments="_TzrvEmgzEeOTZ_-sOuHiZA" targetConnectionVisual="_TzrvE2gzEeOTZ_-sOuHiZA" name="getUser">
+      <modelElement href="../../../finalprojectClient.uml#_1HH7IGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_TztkTmgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_TztkT2gzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1NmWlWgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_TztkUGgzEeOTZ_-sOuHiZA" name="IUser">
+          <modelElement href="../../../finalprojectClient.uml#_1HhjwGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_TztkUWgzEeOTZ_-sOuHiZA" comments="_TzsWIGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_TzsWIWgzEeOTZ_-sOuHiZA" name="AddUser">
+      <modelElement href="../../../finalprojectClient.uml#_1NmWkGgyEeOTZ_-sOuHiZA"/>
+      <keywords xmi:id="_TztkUmgzEeOTZ_-sOuHiZA" keyword="create"/>
+      <visibility xmi:id="_TztkU2gzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_TztkVGgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1NmWlGgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_TztkVWgzEeOTZ_-sOuHiZA" name="AddUser">
+          <modelElement href="../../../finalprojectClient.uml#_1HHUEGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_TztkVmgzEeOTZ_-sOuHiZA" name="user">
+        <modelElement href="../../../finalprojectClient.uml#_1NmWkWgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_TztkV2gzEeOTZ_-sOuHiZA" name="IUser">
+          <modelElement href="../../../finalprojectClient.uml#_1HhjwGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TzxOo2gzEeOTZ_-sOuHiZA" comments="_TzvZcGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_TzvZcWgzEeOTZ_-sOuHiZA" name="RemoveUser" associationsOut="_TzvZcmgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1HJJQGgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_TzxOpGgzEeOTZ_-sOuHiZA" position="425.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TzxOpWgzEeOTZ_-sOuHiZA" label="+"/>
+    <attributes xmi:id="_TzxOpmgzEeOTZ_-sOuHiZA" defaultValue="3732399565631419873L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RCsIWgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_TzxOp2gzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_TzxOqGgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_TzxOqWgzEeOTZ_-sOuHiZA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_TzxOqmgzEeOTZ_-sOuHiZA" name="_user">
+      <modelElement href="../../../finalprojectClient.uml#_1RD6QGgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_TzxOq2gzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RD6QWgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzxOomgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RD6QWgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_TzxOrGgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_TzxOrWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_TzxOrmgzEeOTZ_-sOuHiZA" name="IUser">
+        <modelElement href="../../../finalprojectClient.uml#_1HhjwGgyEeOTZ_-sOuHiZA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_TzxOr2gzEeOTZ_-sOuHiZA" comments="_TzwAgGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_TzwAgWgzEeOTZ_-sOuHiZA" name="getUser">
+      <modelElement href="../../../finalprojectClient.uml#_1HJwUGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_TzxOsGgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_TzxOsWgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1NnktWgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_TzxOsmgzEeOTZ_-sOuHiZA" name="IUser">
+          <modelElement href="../../../finalprojectClient.uml#_1HhjwGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_TzxOs2gzEeOTZ_-sOuHiZA" comments="_TzwAgmgzEeOTZ_-sOuHiZA" targetConnectionVisual="_TzwAg2gzEeOTZ_-sOuHiZA" name="RemoveUser">
+      <modelElement href="../../../finalprojectClient.uml#_1NnksGgyEeOTZ_-sOuHiZA"/>
+      <keywords xmi:id="_TzxOtGgzEeOTZ_-sOuHiZA" keyword="create"/>
+      <visibility xmi:id="_TzxOtWgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_TzxOtmgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1NnktGgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_TzxOt2gzEeOTZ_-sOuHiZA" name="RemoveUser">
+          <modelElement href="../../../finalprojectClient.uml#_1HJJQGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_TzxOuGgzEeOTZ_-sOuHiZA" name="user">
+        <modelElement href="../../../finalprojectClient.uml#_1NnksWgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_TzxOuWgzEeOTZ_-sOuHiZA" name="IUser">
+          <modelElement href="../../../finalprojectClient.uml#_1HhjwGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tz05CWgzEeOTZ_-sOuHiZA" comments="_TzzD0GgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tzzq4GgzEeOTZ_-sOuHiZA" name="RequestCmd" associationsOut="_Tz05AGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1HKXYGgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_Tz05CmgzEeOTZ_-sOuHiZA" position="-352.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tz05C2gzEeOTZ_-sOuHiZA" label="+"/>
+    <attributes xmi:id="_Tz05DGgzEeOTZ_-sOuHiZA" defaultValue="-6302753702410718671L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="../../../finalprojectClient.uml#_1REhUGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz05DWgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz05DmgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz05D2gzEeOTZ_-sOuHiZA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tz05EGgzEeOTZ_-sOuHiZA" name="_id">
+      <modelElement href="../../../finalprojectClient.uml#_1RFIYGgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_Tz05EWgzEeOTZ_-sOuHiZA" name="Generics">
+        <modelElement href="../../../finalprojectClient.uml#_1RFIYWgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tz05EmgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RFvcGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tz05E2gzEeOTZ_-sOuHiZA" name="Generics">
+        <modelElement href="../../../finalprojectClient.uml#_1RFIYWgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tz05FGgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RFvcGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz05FWgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz05FmgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz05F2gzEeOTZ_-sOuHiZA" name="Class">
+        <modelElement href="../../../finalprojectClient.uml#_1P6DsWgyEeOTZ_-sOuHiZA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Tz05GGgzEeOTZ_-sOuHiZA" comments="_Tzzq4WgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tzzq4mgzEeOTZ_-sOuHiZA" name="getID">
+      <modelElement href="../../../finalprojectClient.uml#_1HK-cGgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_Tz05GWgzEeOTZ_-sOuHiZA" name="Generics">
+        <modelElement href="../../../finalprojectClient.uml#_1HLlgGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz05GmgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz05G2gzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1P6qxWgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz05HGgzEeOTZ_-sOuHiZA" name="Class">
+          <modelElement href="../../../finalprojectClient.uml#_1P6DsWgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz05HWgzEeOTZ_-sOuHiZA" comments="_Tz0R8GgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz0R8WgzEeOTZ_-sOuHiZA" name="RequestCmd">
+      <modelElement href="../../../finalprojectClient.uml#_1P6Ds2gyEeOTZ_-sOuHiZA"/>
+      <keywords xmi:id="_Tz05HmgzEeOTZ_-sOuHiZA" keyword="create"/>
+      <visibility xmi:id="_Tz05H2gzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz05IGgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1P6qw2gyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz05IWgzEeOTZ_-sOuHiZA" name="RequestCmd">
+          <modelElement href="../../../finalprojectClient.uml#_1HKXYGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Tz05ImgzEeOTZ_-sOuHiZA" name="id">
+        <modelElement href="../../../finalprojectClient.uml#_1P6qwGgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz05I2gzEeOTZ_-sOuHiZA" name="Class">
+          <modelElement href="../../../finalprojectClient.uml#_1P6DsWgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tz5KeWgzEeOTZ_-sOuHiZA" name="StatusFail" associationsOut="_Tz5KcGgzEeOTZ_-sOuHiZA">
+    <modelElement href="../../../finalprojectClient.uml#_1HMzoGgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_Tz5KemgzEeOTZ_-sOuHiZA" position="811.0,12.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tz5Ke2gzEeOTZ_-sOuHiZA" label="+"/>
+    <attributes xmi:id="_Tz5KfGgzEeOTZ_-sOuHiZA" defaultValue="-7443649890041607700L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RFvcWgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz5KfWgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz5KfmgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz5Kf2gzEeOTZ_-sOuHiZA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tz5KgGgzEeOTZ_-sOuHiZA" name="_msg">
+      <modelElement href="../../../finalprojectClient.uml#_1RGWgGgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_Tz5KgWgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RGWgWgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz5KgmgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz5Kg2gzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz5KhGgzEeOTZ_-sOuHiZA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tz5KhWgzEeOTZ_-sOuHiZA" name="_dp">
+      <modelElement href="../../../finalprojectClient.uml#_1RGWgmgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_Tz5KhmgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RG9kGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tz5Kh2gzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RG9kGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz5KiGgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz5KiWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz5KimgzEeOTZ_-sOuHiZA" name="ADataPacket">
+        <modelElement href="../../../finalprojectClient.uml#_1IJ14GgyEeOTZ_-sOuHiZA"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Tz5Ki2gzEeOTZ_-sOuHiZA" comments="_Tz38UGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz38UWgzEeOTZ_-sOuHiZA" name="getMsg">
+      <modelElement href="../../../finalprojectClient.uml#_1HNasGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz5KjGgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz5KjWgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1HNasWgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz5KjmgzEeOTZ_-sOuHiZA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz5Kj2gzEeOTZ_-sOuHiZA" comments="_Tz38UmgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz38U2gzEeOTZ_-sOuHiZA" name="getDataPacket">
+      <modelElement href="../../../finalprojectClient.uml#_1HNasmgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz5KkGgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz5KkWgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1NqA9WgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz5KkmgzEeOTZ_-sOuHiZA" name="ADataPacket">
+          <modelElement href="../../../finalprojectClient.uml#_1IJ14GgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz5Kk2gzEeOTZ_-sOuHiZA" comments="_Tz38VGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz4jYGgzEeOTZ_-sOuHiZA" name="StatusFail">
+      <modelElement href="../../../finalprojectClient.uml#_1NpZ4WgyEeOTZ_-sOuHiZA"/>
+      <keywords xmi:id="_Tz5KlGgzEeOTZ_-sOuHiZA" keyword="create"/>
+      <visibility xmi:id="_Tz5KlWgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz5KlmgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1NqA9GgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz5Kl2gzEeOTZ_-sOuHiZA" name="StatusFail">
+          <modelElement href="../../../finalprojectClient.uml#_1HMzoGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Tz5KmGgzEeOTZ_-sOuHiZA" name="msg">
+        <modelElement href="../../../finalprojectClient.uml#_1NqA8GgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz5KmWgzEeOTZ_-sOuHiZA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Tz5KmmgzEeOTZ_-sOuHiZA" name="dp">
+        <modelElement href="../../../finalprojectClient.uml#_1NqA8WgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz5Km2gzEeOTZ_-sOuHiZA" name="ADataPacket">
+          <modelElement href="../../../finalprojectClient.uml#_1IJ14GgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tz8NwGgzEeOTZ_-sOuHiZA" comments="_Tz7msGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz7msWgzEeOTZ_-sOuHiZA" name="StatusOk">
+    <modelElement href="../../../finalprojectClient.uml#_1HOo0GgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_Tz8NwWgzEeOTZ_-sOuHiZA" position="-727.0,114.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tz8NwmgzEeOTZ_-sOuHiZA" label="+"/>
+    <attributes xmi:id="_Tz8Nw2gzEeOTZ_-sOuHiZA" defaultValue="6381263893201754556L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RG9kWgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz8NxGgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz8NxWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz8NxmgzEeOTZ_-sOuHiZA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tz_4IGgzEeOTZ_-sOuHiZA" comments="_Tz9b4GgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz9b4WgzEeOTZ_-sOuHiZA" name="TextMessage">
+    <modelElement href="../../../finalprojectClient.uml#_1HPP4GgyEeOTZ_-sOuHiZA"/>
+    <visualProperties xmi:id="_Tz_4IWgzEeOTZ_-sOuHiZA" position="-1233.0,-26.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tz_4ImgzEeOTZ_-sOuHiZA" label="+"/>
+    <attributes xmi:id="_Tz_4I2gzEeOTZ_-sOuHiZA" defaultValue="-4925770300753416467L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="../../../finalprojectClient.uml#_1RHkoWgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz_4JGgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz_4JWgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz_4JmgzEeOTZ_-sOuHiZA" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tz_4J2gzEeOTZ_-sOuHiZA" name="_name">
+      <modelElement href="../../../finalprojectClient.uml#_1RHko2gyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_Tz_4KGgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RILsGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz_4KWgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz_4KmgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz_4K2gzEeOTZ_-sOuHiZA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tz_4LGgzEeOTZ_-sOuHiZA" name="_date">
+      <modelElement href="../../../finalprojectClient.uml#_1RILsWgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_Tz_4LWgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RIywGgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz_4LmgzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz_4L2gzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz_4MGgzEeOTZ_-sOuHiZA" name="Date">
+        <modelElement href="../../../finalprojectClient.uml#_1NisMGgyEeOTZ_-sOuHiZA"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tz_4MWgzEeOTZ_-sOuHiZA" name="_msg">
+      <modelElement href="../../../finalprojectClient.uml#_1RIywWgyEeOTZ_-sOuHiZA"/>
+      <stereotypes xmi:id="_Tz_4MmgzEeOTZ_-sOuHiZA" name="LegacyStyledElement">
+        <modelElement href="../../../finalprojectClient.uml#_1RIywmgyEeOTZ_-sOuHiZA"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz_4M2gzEeOTZ_-sOuHiZA" label="-"/>
+      <cardinality xmi:id="_Tz_4NGgzEeOTZ_-sOuHiZA" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz_4NWgzEeOTZ_-sOuHiZA" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Tz_4NmgzEeOTZ_-sOuHiZA" comments="_Tz9b4mgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz-C8GgzEeOTZ_-sOuHiZA" name="getName">
+      <modelElement href="../../../finalprojectClient.uml#_1HP28GgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz_4N2gzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz_4OGgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1HP28WgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz_4OWgzEeOTZ_-sOuHiZA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz_4OmgzEeOTZ_-sOuHiZA" comments="_Tz-C8WgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz-C8mgzEeOTZ_-sOuHiZA" name="getTime">
+      <modelElement href="../../../finalprojectClient.uml#_1HP28mgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz_4O2gzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz_4PGgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1P7442gyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz_4PWgzEeOTZ_-sOuHiZA" name="Date">
+          <modelElement href="../../../finalprojectClient.uml#_1NisMGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz_4PmgzEeOTZ_-sOuHiZA" comments="_Tz-C82gzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz-C9GgzEeOTZ_-sOuHiZA" name="getMsg">
+      <modelElement href="../../../finalprojectClient.uml#_1HQeAGgyEeOTZ_-sOuHiZA"/>
+      <visibility xmi:id="_Tz_4P2gzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz_4QGgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1HQeAWgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz_4QWgzEeOTZ_-sOuHiZA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz_4QmgzEeOTZ_-sOuHiZA" comments="_Tz-qAGgzEeOTZ_-sOuHiZA" targetConnectionVisual="_Tz-qAWgzEeOTZ_-sOuHiZA" name="TextMessage">
+      <modelElement href="../../../finalprojectClient.uml#_1P7R0GgyEeOTZ_-sOuHiZA"/>
+      <keywords xmi:id="_Tz_4Q2gzEeOTZ_-sOuHiZA" keyword="create"/>
+      <visibility xmi:id="_Tz_4RGgzEeOTZ_-sOuHiZA" label="+"/>
+      <outParameters xmi:id="_Tz_4RWgzEeOTZ_-sOuHiZA">
+        <modelElement href="../../../finalprojectClient.uml#_1P744mgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz_4RmgzEeOTZ_-sOuHiZA" name="TextMessage">
+          <modelElement href="../../../finalprojectClient.uml#_1HPP4GgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Tz_4R2gzEeOTZ_-sOuHiZA" name="name">
+        <modelElement href="../../../finalprojectClient.uml#_1P7R0WgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz_4SGgzEeOTZ_-sOuHiZA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Tz_4SWgzEeOTZ_-sOuHiZA" name="date">
+        <modelElement href="../../../finalprojectClient.uml#_1P7R0mgyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz_4SmgzEeOTZ_-sOuHiZA" name="Date">
+          <modelElement href="../../../finalprojectClient.uml#_1NisMGgyEeOTZ_-sOuHiZA"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Tz_4S2gzEeOTZ_-sOuHiZA" name="msg">
+        <modelElement href="../../../finalprojectClient.uml#_1P7R02gyEeOTZ_-sOuHiZA"/>
+        <type xmi:id="_Tz_4TGgzEeOTZ_-sOuHiZA" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
